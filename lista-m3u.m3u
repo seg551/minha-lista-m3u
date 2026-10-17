@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,TCACTION
+http://trsc-cb.brtvdc.site:8880/tcaction/index.m3u8
+#EXTINF:-1,Cinemax
+http://trsc-cb.brtvdc.site:8880/cinemax/index.m3u8
+#EXTINF:-1,Sony Channel
+http://trsc-cb.brtvdc.site:8880/sonychannel/index.m3u8
+#EXTINF:-1,A&E
+http://trsc-cb.brtvdc.site:8880/aee/index.m3u8
+#EXTINF:-1,AMC
+http://trsc-cb.brtvdc.site:8880/amc/index.m3u8
+#EXTINF:-1,Space
+http://trsc-cb.brtvdc.site:8880/space/index.m3u8
+#EXTINF:-1,Megapix
+http://trsc-cb.brtvdc.site:8880/megapix/index.m3u8
+#EXTINF:-1,H1
+http://trsc-cb.brtvdc.site:8880/h1/index.m3u8
+#EXTINF:-1,H2
+http://trsc-cb.brtvdc.site:8880/h2/index.m3u8
+#EXTINF:-1,Animal Planet
+http://trsc-tvdc-f10.brtvdc.site:8880/ANIMALPLANET/index.m3u8
+#EXTINF:-1,TNT
+http://trsc-tvdc-f10.brtvdc.site:8880/12392TNT/index.m3u8
+#EXTINF:-1,Globo SP
+http://trsc-cb.brtvdc.site:8880/GLBSP/index.m3u8
+#EXTINF:-1,Record SP
+http://trsc-cb.brtvdc.site:8880/RECSP/index.m3u8
+#EXTINF:-1,SBT SP
+http://trsc-cb.brtvdc.site:8880/SBTSP/index.m3u8
+#EXTINF:-1,Band SP
+http://trsc-cb.brtvdc.site:8880/BANDSP/index.m3u8
